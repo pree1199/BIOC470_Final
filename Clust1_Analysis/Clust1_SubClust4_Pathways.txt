@@ -1,0 +1,17 @@
+P00005	HUMAN|HGNC=3665|UniProtKB=P05230	Angiogenesis	77	246	1254
+P00043	HUMAN|HGNC=1951|UniProtKB=P08172	Muscarinic acetylcholine receptor 2 and 4 signaling pathway	11	114	524
+P00031	HUMAN|HGNC=145|UniProtKB=P63267,HUMAN|HGNC=2191|UniProtKB=Q05707	Inflammation mediated by chemokine and cytokine signaling pathway	58	353	1652
+P00004	HUMAN|HGNC=145|UniProtKB=P63267,HUMAN|HGNC=12785|UniProtKB=Q9Y6F9,HUMAN|HGNC=8744|UniProtKB=P16519	Alzheimer disease-presenilin pathway	70	210	1042
+P00021	HUMAN|HGNC=3665|UniProtKB=P05230	FGF signaling pathway	26	236	1135
+P00026	HUMAN|HGNC=1951|UniProtKB=P08172	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	27	217	1104
+P00057	HUMAN|HGNC=145|UniProtKB=P63267,HUMAN|HGNC=12785|UniProtKB=Q9Y6F9,HUMAN|HGNC=10778|UniProtKB=Q6FHJ7,HUMAN|HGNC=23112|UniProtKB=Q8TDW7	Wnt signaling pathway	49	483	2308
+P00048	HUMAN|HGNC=9595|UniProtKB=P43115	PI3 kinase pathway	35	78	425
+P00027	HUMAN|HGNC=1951|UniProtKB=P08172	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	21	154	837
+P00046	HUMAN|HGNC=28161|UniProtKB=Q9BV47	Oxidative stress response	20	80	358
+P00003	HUMAN|HGNC=8744|UniProtKB=P16519,HUMAN|HGNC=1951|UniProtKB=P08172	Alzheimer disease-amyloid secretase pathway	31	118	532
+P06664	HUMAN|HGNC=9595|UniProtKB=P43115	Gonadotropin releasing hormone receptor pathway	216	233	235
+P00029	HUMAN|HGNC=145|UniProtKB=P63267	Huntington disease	60	306	1510
+P00012	HUMAN|HGNC=145|UniProtKB=P63267,HUMAN|HGNC=12785|UniProtKB=Q9Y6F9,HUMAN|HGNC=23112|UniProtKB=Q8TDW7	Cadherin signaling pathway	16	239	1058
+P00044	HUMAN|HGNC=145|UniProtKB=P63267	Nicotinic acetylcholine receptor signaling pathway	13	252	962
+P00034	HUMAN|HGNC=145|UniProtKB=P63267,HUMAN|HGNC=2191|UniProtKB=Q05707,HUMAN|HGNC=2197|UniProtKB=P02452	Integrin signalling pathway	46	251	1296
+P00016	HUMAN|HGNC=145|UniProtKB=P63267	Cytoskeletal regulation by Rho GTPase	20	174	824

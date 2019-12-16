@@ -1,0 +1,13 @@
+P06959	HUMAN|HGNC=7872|UniProtKB=P29475	CCKR signaling map	290	171	171
+P04385	HUMAN|HGNC=9062|UniProtKB=Q9BRC7	Histamine H1 receptor mediated signaling pathway	5	66	395
+P00031	HUMAN|HGNC=9062|UniProtKB=Q9BRC7	Inflammation mediated by chemokine and cytokine signaling pathway	58	353	1652
+P00021	HUMAN|HGNC=3666|UniProtKB=O15520	FGF signaling pathway	26	236	1135
+P04374	HUMAN|HGNC=9062|UniProtKB=Q9BRC7	5HT2 type receptor mediated signaling pathway	9	103	569
+P06664	HUMAN|HGNC=7872|UniProtKB=P29475	Gonadotropin releasing hormone receptor pathway	216	233	235
+P00029	HUMAN|HGNC=10832|UniProtKB=Q99963	Huntington disease	60	306	1510
+P00057	HUMAN|HGNC=8692|UniProtKB=Q9Y5E2,HUMAN|HGNC=1750|UniProtKB=P55287,HUMAN|HGNC=8686|UniProtKB=Q9Y5E8	Wnt signaling pathway	49	483	2308
+P04391	HUMAN|HGNC=9062|UniProtKB=Q9BRC7	Oxytocin receptor mediated signaling pathway	6	88	515
+P00012	HUMAN|HGNC=8692|UniProtKB=Q9Y5E2,HUMAN|HGNC=1750|UniProtKB=P55287,HUMAN|HGNC=8686|UniProtKB=Q9Y5E8	Cadherin signaling pathway	16	239	1058
+P04394	HUMAN|HGNC=9062|UniProtKB=Q9BRC7	Thyrotropin-releasing hormone receptor signaling pathway	9	95	535
+P05734	HUMAN|HGNC=17282|UniProtKB=Q86UR5	Synaptic_vesicle_trafficking	12	32	164
+P00049	HUMAN|HGNC=11139|UniProtKB=Q9Y6H5	Parkinson disease	37	212	1128

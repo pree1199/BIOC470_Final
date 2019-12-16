@@ -1,0 +1,14 @@
+P06959	HUMAN|HGNC=10935|UniProtKB=Q05940	CCKR signaling map	290	171	171
+P06587	HUMAN|HGNC=10935|UniProtKB=Q05940	Nicotine pharmacodynamics pathway	27	39	159
+P04374	HUMAN|HGNC=10935|UniProtKB=Q05940	5HT2 type receptor mediated signaling pathway	9	103	569
+P04376	HUMAN|HGNC=10935|UniProtKB=Q05940	5HT4 type receptor mediated signaling pathway	7	47	287
+P04375	HUMAN|HGNC=10935|UniProtKB=Q05940	5HT3 type receptor mediated signaling pathway	5	24	123
+P00057	HUMAN|HGNC=20289|UniProtKB=Q8N752,HUMAN|HGNC=8677|UniProtKB=Q9Y5I4	Wnt signaling pathway	49	483	2308
+P00001	HUMAN|HGNC=10935|UniProtKB=Q05940	Adrenaline and noradrenaline biosynthesis	12	54	215
+P04373	HUMAN|HGNC=10935|UniProtKB=Q05940	5HT1 type receptor mediated signaling pathway	8	62	390
+P00012	HUMAN|HGNC=8677|UniProtKB=Q9Y5I4	Cadherin signaling pathway	16	239	1058
+P00036	HUMAN|HGNC=5975|UniProtKB=Q14627	Interleukin signaling pathway	36	90	555
+P05912	HUMAN|HGNC=10935|UniProtKB=Q05940	Dopamine receptor mediated signaling pathway	27	85	422
+P00025	HUMAN|HGNC=20289|UniProtKB=Q8N752	Hedgehog signaling pathway	20	37	171
+P00049	HUMAN|HGNC=20289|UniProtKB=Q8N752	Parkinson disease	37	212	1128
+P06664	HUMAN|HGNC=8910|UniProtKB=P06401	Gonadotropin releasing hormone receptor pathway	216	233	235

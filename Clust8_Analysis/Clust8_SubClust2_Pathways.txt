@@ -1,0 +1,1 @@
+P00031	HUMAN|HGNC=1608|UniProtKB=P32248	Inflammation mediated by chemokine and cytokine signaling pathway	58	353	1652

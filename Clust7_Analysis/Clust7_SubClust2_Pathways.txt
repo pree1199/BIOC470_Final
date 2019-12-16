@@ -1,0 +1,9 @@
+P06959	HUMAN|HGNC=8584|UniProtKB=P05120	CCKR signaling map	290	171	171
+P00055	HUMAN|HGNC=16844|UniProtKB=Q02930	Transcription regulation by bZIP transcription factor	25	89	509
+P05734	HUMAN|HGNC=11495|UniProtKB=Q92777	Synaptic_vesicle_trafficking	12	32	164
+P00020	HUMAN|HGNC=1474|UniProtKB=P40121	FAS signaling pathway	31	51	244
+P02727	HUMAN|HGNC=2594|UniProtKB=P11511	Androgen/estrogene/progesterone biosynthesis	14	13	42
+P00026	HUMAN|HGNC=16844|UniProtKB=Q02930	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	27	217	1104
+P00011	HUMAN|HGNC=8584|UniProtKB=P05120	Blood coagulation	59	47	206
+P00050	HUMAN|HGNC=8584|UniProtKB=P05120	Plasminogen activating cascade	22	19	82
+P00018	HUMAN|HGNC=3443|UniProtKB=O14944	EGF receptor signaling pathway	28	278	1161

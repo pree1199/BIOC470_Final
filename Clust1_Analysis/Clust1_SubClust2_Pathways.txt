@@ -1,0 +1,31 @@
+P00005	HUMAN|HGNC=6872|UniProtKB=P53779	Angiogenesis	77	246	1254
+P05726	HUMAN|HGNC=18483|UniProtKB=Q8WWY8	2-arachidonoylglycerol biosynthesis	4	7	36
+P00020	HUMAN|HGNC=6872|UniProtKB=P53779	FAS signaling pathway	31	51	244
+P00006	HUMAN|HGNC=6872|UniProtKB=P53779	Apoptosis signaling pathway	72	171	844
+P00052	HUMAN|HGNC=6872|UniProtKB=P53779	TGF-beta signaling pathway	20	168	830
+P00026	HUMAN|HGNC=281|UniProtKB=P08913	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	27	217	1104
+P00053	HUMAN|HGNC=6872|UniProtKB=P53779	T cell activation	45	97	561
+P00057	HUMAN|HGNC=7174|UniProtKB=P09237,HUMAN|HGNC=1765|UniProtKB=P55285,HUMAN|HGNC=10779|UniProtKB=Q5T4F7	Wnt signaling pathway	49	483	2308
+P05734	HUMAN|HGNC=19264|UniProtKB=Q8NBV8	Synaptic_vesicle_trafficking	12	32	164
+P00047	HUMAN|HGNC=6872|UniProtKB=P53779	PDGF signaling pathway	36	214	1032
+P00044	HUMAN|HGNC=1960|UniProtKB=P36544	Nicotinic acetylcholine receptor signaling pathway	13	252	962
+P00036	HUMAN|HGNC=6003|UniProtKB=Q9UHF4	Interleukin signaling pathway	36	90	555
+P00012	HUMAN|HGNC=1765|UniProtKB=P55285,HUMAN|HGNC=2516|UniProtKB=Q9UQB3	Cadherin signaling pathway	16	239	1058
+P06959	HUMAN|HGNC=7174|UniProtKB=P09237,HUMAN|HGNC=11755|UniProtKB=P04155,HUMAN|HGNC=6872|UniProtKB=P53779,HUMAN|HGNC=11517|UniProtKB=P20366	CCKR signaling map	290	171	171
+P00034	HUMAN|HGNC=6872|UniProtKB=P53779,HUMAN|HGNC=6493|UniProtKB=Q13753,HUMAN|HGNC=6481|UniProtKB=P25391	Integrin signalling pathway	46	251	1296
+P00016	HUMAN|HGNC=15916|UniProtKB=Q9P286	Cytoskeletal regulation by Rho GTPase	20	174	824
+P06587	HUMAN|HGNC=2065|UniProtKB=Q96NY7	Nicotine pharmacodynamics pathway	27	39	159
+P00031	HUMAN|HGNC=15916|UniProtKB=Q9P286	Inflammation mediated by chemokine and cytokine signaling pathway	58	353	1652
+P00054	HUMAN|HGNC=6872|UniProtKB=P53779	Toll receptor signaling pathway	46	72	308
+P00021	HUMAN|HGNC=6872|UniProtKB=P53779	FGF signaling pathway	26	236	1135
+P00004	HUMAN|HGNC=16942|UniProtKB=Q76MJ5,HUMAN|HGNC=7174|UniProtKB=P09237	Alzheimer disease-presenilin pathway	70	210	1042
+P00002	HUMAN|HGNC=281|UniProtKB=P08913	Alpha adrenergic receptor signaling pathway	6	34	158
+P04393	HUMAN|HGNC=6872|UniProtKB=P53779	Ras Pathway	39	104	602
+P00018	HUMAN|HGNC=6872|UniProtKB=P53779	EGF receptor signaling pathway	28	278	1161
+P05912	HUMAN|HGNC=2065|UniProtKB=Q96NY7	Dopamine receptor mediated signaling pathway	27	85	422
+P00035	HUMAN|HGNC=6872|UniProtKB=P53779	Interferon-gamma signaling pathway	10	61	263
+P00046	HUMAN|HGNC=6872|UniProtKB=P53779	Oxidative stress response	20	80	358
+P00003	HUMAN|HGNC=1960|UniProtKB=P36544,HUMAN|HGNC=6872|UniProtKB=P53779	Alzheimer disease-amyloid secretase pathway	31	118	532
+P00049	HUMAN|HGNC=6872|UniProtKB=P53779	Parkinson disease	37	212	1128
+P00010	HUMAN|HGNC=6872|UniProtKB=P53779	B cell activation	37	80	428
+P00029	HUMAN|HGNC=1483|UniProtKB=Q9Y6Q1	Huntington disease	60	306	1510

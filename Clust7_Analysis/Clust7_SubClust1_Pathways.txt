@@ -1,0 +1,10 @@
+P00004	HUMAN|HGNC=7883|UniProtKB=Q9UM47	Alzheimer disease-presenilin pathway	70	210	1042
+P00021	HUMAN|HGNC=3677|UniProtKB=Q9NP95	FGF signaling pathway	26	236	1135
+P00037	HUMAN|HGNC=20151|UniProtKB=Q8NDX2	Ionotropic glutamate receptor pathway	29	75	383
+P00047	HUMAN|HGNC=3320|UniProtKB=Q9UKW6	PDGF signaling pathway	36	214	1032
+P00026	HUMAN|HGNC=268|UniProtKB=P0DMS8	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	27	217	1104
+P00045	HUMAN|HGNC=7883|UniProtKB=Q9UM47	Notch signaling pathway	23	68	275
+P00053	HUMAN|HGNC=1700|UniProtKB=P33681	T cell activation	45	97	561
+P00029	HUMAN|HGNC=16371|UniProtKB=Q96L46	Huntington disease	60	306	1510
+P00036	HUMAN|HGNC=29549|UniProtKB=Q8N5J4	Interleukin signaling pathway	36	90	555
+P00027	HUMAN|HGNC=268|UniProtKB=P0DMS8	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	21	154	837
