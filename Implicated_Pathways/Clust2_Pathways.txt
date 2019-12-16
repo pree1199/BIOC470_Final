@@ -1,0 +1,19 @@
+P00011	HUMAN|HGNC=6156|UniProtKB=P05106	Blood coagulation	59	47	206
+P02750	HUMAN|HGNC=37216|UniProtKB=A6NK58	Lipoate_biosynthesis	3	8	45
+P00057	HUMAN|HGNC=4379|UniProtKB=P29992,HUMAN|HGNC=4383|UniProtKB=P30679	Wnt signaling pathway	49	483	2308
+P04391	HUMAN|HGNC=4379|UniProtKB=P29992	Oxytocin receptor mediated signaling pathway	6	88	515
+P00018	HUMAN|HGNC=29862|UniProtKB=Q8WWG1	EGF receptor signaling pathway	28	278	1161
+P00027	HUMAN|HGNC=25425|UniProtKB=Q5VVW2,HUMAN|HGNC=4379|UniProtKB=P29992,HUMAN|HGNC=4383|UniProtKB=P30679	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	21	154	837
+P04394	HUMAN|HGNC=4379|UniProtKB=P29992	Thyrotropin-releasing hormone receptor signaling pathway	9	95	535
+P00048	HUMAN|HGNC=4379|UniProtKB=P29992	PI3 kinase pathway	35	78	425
+P00041	HUMAN|HGNC=4379|UniProtKB=P29992,HUMAN|HGNC=4383|UniProtKB=P30679	Metabotropic glutamate receptor group I pathway	10	34	188
+P00049	HUMAN|HGNC=14923|UniProtKB=O60883	Parkinson disease	37	212	1128
+P06664	HUMAN|HGNC=4419|UniProtKB=P01148	Gonadotropin releasing hormone receptor pathway	216	233	235
+P00042	HUMAN|HGNC=4379|UniProtKB=P29992	Muscarinic acetylcholine receptor 1 and 3 signaling pathway	12	97	508
+P00034	HUMAN|HGNC=6156|UniProtKB=P05106	Integrin signalling pathway	46	251	1296
+P04380	HUMAN|HGNC=4379|UniProtKB=P29992	Cortocotropin releasing factor receptor signaling pathway	9	47	301
+P00019	HUMAN|HGNC=4379|UniProtKB=P29992	Endothelin signaling pathway	27	149	727
+P04385	HUMAN|HGNC=4379|UniProtKB=P29992	Histamine H1 receptor mediated signaling pathway	5	66	395
+P00031	HUMAN|HGNC=4379|UniProtKB=P29992,HUMAN|HGNC=4383|UniProtKB=P30679	Inflammation mediated by chemokine and cytokine signaling pathway	58	353	1652
+P00002	HUMAN|HGNC=4379|UniProtKB=P29992	Alpha adrenergic receptor signaling pathway	6	34	158
+P04374	HUMAN|HGNC=4379|UniProtKB=P29992	5HT2 type receptor mediated signaling pathway	9	103	569

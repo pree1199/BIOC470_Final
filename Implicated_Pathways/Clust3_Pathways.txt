@@ -1,0 +1,12 @@
+P00043	HUMAN|HGNC=21285|UniProtKB=Q96PN6	Muscarinic acetylcholine receptor 2 and 4 signaling pathway	11	114	524
+P00019	HUMAN|HGNC=21285|UniProtKB=Q96PN6	Endothelin signaling pathway	27	149	727
+P00052	HUMAN|HGNC=30142|UniProtKB=Q99988	TGF-beta signaling pathway	20	168	830
+P00026	HUMAN|HGNC=9993|UniProtKB=O94810	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	27	217	1104
+P00057	HUMAN|HGNC=14257|UniProtKB=Q8N6Y1	Wnt signaling pathway	49	483	2308
+P00040	HUMAN|HGNC=21285|UniProtKB=Q96PN6	Metabotropic glutamate receptor group II pathway	7	73	392
+P00012	HUMAN|HGNC=14257|UniProtKB=Q8N6Y1	Cadherin signaling pathway	16	239	1058
+P02746	HUMAN|HGNC=2321|UniProtKB=P36551	Heme biosynthesis	15	35	281
+P00027	HUMAN|HGNC=9993|UniProtKB=O94810	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	21	154	837
+P00022	HUMAN|HGNC=11533|UniProtKB=Q53T94	General transcription by RNA polymerase I	16	23	130
+P00039	HUMAN|HGNC=21285|UniProtKB=Q96PN6	Metabotropic glutamate receptor group III pathway	12	103	560
+P04372	HUMAN|HGNC=405|UniProtKB=P30838	5-Hydroxytryptamine degredation	2	56	231

@@ -1,0 +1,6 @@
+P00008	HUMAN|HGNC=12399|UniProtKB=Q9UBF9	Axon guidance mediated by Slit/Robo	14	39	173
+P00027	HUMAN|HGNC=3020|UniProtKB=P21728,HUMAN|HGNC=14545|UniProtKB=Q8IV61	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	21	154	837
+P05912	HUMAN|HGNC=3020|UniProtKB=P21728	Dopamine receptor mediated signaling pathway	27	85	422
+P00026	HUMAN|HGNC=3020|UniProtKB=P21728	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	27	217	1104
+P00057	HUMAN|HGNC=18502|UniProtKB=Q9BQ87	Wnt signaling pathway	49	483	2308
+P00029	HUMAN|HGNC=9453|UniProtKB=O43272	Huntington disease	60	306	1510
